@@ -1,0 +1,6 @@
+{
+    "name": "lab-apc-11/clase4",
+    "require": {
+        "econea/nusoap": "^0.9.18"
+    }
+}
